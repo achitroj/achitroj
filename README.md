@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashank!
-- 👀 I’m interested in writing code and learning new techs. I am a lifetime student and like to write code in Python and R.
+- 👀 Writing code and learning new things along is one of the major part of my life now. I am a lifetime student and like to code in Python and R.
 - Have worked on providing SaaS for different organizations using Python, Flask, Dash, etc.
 - 🌱 I’m currently learning R programming language, and diving into the very new(for me) Banking and Financial domain.
 - 📫 You can reach me on 29.shashank@gmail.com
